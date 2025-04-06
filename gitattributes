@@ -1,0 +1,5 @@
+# Ensure consistent line endings
+* text=auto
+
+# Jupyter notebooks treated as binary
+*.ipynb binary
