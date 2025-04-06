@@ -1,3 +1,5 @@
+# Path to github repository: https://github.com/Andrey-Vospr/M08_Spark_ML_AZURE
+
 # 🍷 Wine Quality Prediction with MLflow on Azure Databricks
 
 This project walks through a complete machine learning lifecycle on Azure Databricks — including data preprocessing, model training, tracking with MLflow, hyperparameter tuning, batch inference, and model serving — using the Portuguese "Vinho Verde" wine dataset.
